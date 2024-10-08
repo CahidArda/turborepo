@@ -19,5 +19,8 @@
   "workspaces": [
     "apps/*",
     "packages/*"
-  ]
+  ],
+  "dependencies": {
+    "@upstash/redis": "^0.0.0-ci.ed4e6de160b6a8d6f2caedfb5836805e0ffd2cdd-20241008135327"
+  }
 }
