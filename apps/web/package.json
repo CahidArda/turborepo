@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "@repo/ui": "*",
-    "@upstash/redis": "^0.0.0-ci.ed4e6de160b6a8d6f2caedfb5836805e0ffd2cdd-20241008135327",
+    "@upstash/redis": "^0.0.0-ci.0946332fad9384a2f3ca3eec208cf87035d698f7-20241009061153",
     "next": "14.2.6",
     "react": "18.3.1",
     "react-dom": "18.3.1"
